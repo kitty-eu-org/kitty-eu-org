@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🤔 I’m quite like Rust!
 <!--
 **kitty-eu-org/kitty-eu-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
